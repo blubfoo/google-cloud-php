@@ -6,6 +6,7 @@
 PHP Version  | Status
 ------------ | ------
 PHP 7.2 | [![Kokoro CI](https://storage.googleapis.com/cloud-devrel-public/php/badges/google-cloud-php/php72.svg)](https://storage.googleapis.com/cloud-devrel-public/php/badges/google-cloud-php/php72.html)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fblubfoo%2Fgoogle-cloud-php.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fblubfoo%2Fgoogle-cloud-php?ref=badge_shield)
 
 [![Latest Stable Version](https://poser.pugx.org/google/cloud/v/stable)](https://packagist.org/packages/google/cloud) [![Packagist](https://img.shields.io/packagist/dm/google/cloud.svg)](https://packagist.org/packages/google/cloud) [![Travis Build Status](https://travis-ci.org/googleapis/google-cloud-php.svg?branch=master)](https://travis-ci.org/googleapis/google-cloud-php/) [![codecov](https://codecov.io/gh/googleapis/google-cloud-php/branch/master/graph/badge.svg)](https://codecov.io/gh/googleapis/google-cloud-php)
 
@@ -1647,3 +1648,6 @@ See [CONTRIBUTING](CONTRIBUTING.md) for more information on how to get started.
 ## License
 
 Apache 2.0 - See [LICENSE](LICENSE) for more information.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fblubfoo%2Fgoogle-cloud-php.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fblubfoo%2Fgoogle-cloud-php?ref=badge_large)
